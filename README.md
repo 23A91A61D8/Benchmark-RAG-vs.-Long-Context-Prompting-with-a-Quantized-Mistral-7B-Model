@@ -42,9 +42,6 @@ The system evaluates how RAG improves performance compared to direct long-contex
 
 - DeepMind NarrativeQA Dataset
 
-Dataset Link:
-https://huggingface.co/datasets/deepmind/narrativeqa
-
 ---
 
 ## Project Structure
