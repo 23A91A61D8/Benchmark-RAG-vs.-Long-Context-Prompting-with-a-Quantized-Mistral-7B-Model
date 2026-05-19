@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Who is Mark Hunter?",
+        "generated_answer": "Mark Hunter is a high school student in Phoenix.",
+        "reference_answer": "He is a high school student in Phoenix.",
+        "retrieved_contexts": [
+            "Mark Hunter is a student."
+        ]
+    }
+]

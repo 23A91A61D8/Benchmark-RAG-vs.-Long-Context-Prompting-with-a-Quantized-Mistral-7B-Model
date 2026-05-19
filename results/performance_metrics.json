@@ -1,0 +1,6 @@
+{
+    "latency_seconds": 21.843987464904785,
+    "throughput_tokens_per_second": 4.303243634021639,
+    "gpu_memory_gb": 12.524656772613525,
+    "cpu_memory_gb": 6.787273406982422
+}

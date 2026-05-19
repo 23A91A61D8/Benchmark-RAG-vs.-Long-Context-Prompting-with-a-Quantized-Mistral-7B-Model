@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+
+  rag-benchmark:
+
+    build: .
+
+    container_name: rag-benchmark-container
+
+    volumes:
+      - .:/app
+
+    tty: true

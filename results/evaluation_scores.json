@@ -1,0 +1,11 @@
+{
+    "rag": {
+        "average_rouge1_fmeasure": 0.0639,
+        "average_rougeL_fmeasure": 0.0559
+    },
+    "long_context": {
+        "average_rouge1_fmeasure": 0.0098,
+        "average_rougeL_fmeasure": 0.0082
+    },
+    "bertscore_f1": 0.8782
+}
